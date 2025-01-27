@@ -1,0 +1,11 @@
+D:\Vizual\EmployeeManagementSolution\ServerLibrary\bin\Debug\net8.0\ServerLibrary.deps.json
+D:\Vizual\EmployeeManagementSolution\ServerLibrary\bin\Debug\net8.0\ServerLibrary.dll
+D:\Vizual\EmployeeManagementSolution\ServerLibrary\bin\Debug\net8.0\ServerLibrary.pdb
+D:\Vizual\EmployeeManagementSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vizual\EmployeeManagementSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfoInputs.cache
+D:\Vizual\EmployeeManagementSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfo.cs
+D:\Vizual\EmployeeManagementSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.CoreCompileInputs.cache
+D:\Vizual\EmployeeManagementSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.dll
+D:\Vizual\EmployeeManagementSolution\ServerLibrary\obj\Debug\net8.0\refint\ServerLibrary.dll
+D:\Vizual\EmployeeManagementSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.pdb
+D:\Vizual\EmployeeManagementSolution\ServerLibrary\obj\Debug\net8.0\ref\ServerLibrary.dll
